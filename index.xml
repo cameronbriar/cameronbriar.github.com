@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameron Briar</title>
+    <link>http://cameronbriar.com/index.xml</link>
+    <description>Recent content on Cameron Briar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jan 2017 00:21:44 -0800</lastBuildDate>
+    <atom:link href="http://cameronbriar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://cameronbriar.com/test/test/</link>
+      <pubDate>Sun, 15 Jan 2017 00:21:44 -0800</pubDate>
+      
+      <guid>http://cameronbriar.com/test/test/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-not-a-test&#34;&gt;This is not a test&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

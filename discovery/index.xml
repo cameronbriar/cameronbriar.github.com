@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cameron Briar</title>
-    <link>http://cameronbriar.com/index.xml</link>
-    <description>Recent content on Cameron Briar</description>
+    <title>Discovery on Cameron Briar</title>
+    <link>http://cameronbriar.com/discovery/index.xml</link>
+    <description>Recent content in Discovery on Cameron Briar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 06 Feb 2017 14:14:14 -1414</lastBuildDate>
-    <atom:link href="http://cameronbriar.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cameronbriar.com/discovery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello</title>

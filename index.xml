@@ -6,8 +6,17 @@
     <description>Recent content on Cameron Briar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Feb 2017 14:14:14 -1414</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 18:23:11 -0800</lastBuildDate>
     <atom:link href="http://cameronbriar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>resume</title>
+      <link>http://cameronbriar.com/resume/resume/</link>
+      <pubDate>Thu, 16 Feb 2017 18:23:11 -0800</pubDate>
+      
+      <guid>http://cameronbriar.com/resume/resume/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello</title>

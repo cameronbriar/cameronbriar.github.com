@@ -18,19 +18,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Hello</title>
-      <link>http://cameronbriar.com/discovery/hello/</link>
-      <pubDate>Mon, 06 Feb 2017 14:14:14 -1414</pubDate>
-      
-      <guid>http://cameronbriar.com/discovery/hello/</guid>
-      <description>
-
-&lt;h3 id=&#34;part-one&#34;&gt;Part One&lt;/h3&gt;
-
-&lt;p&gt;Hello&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

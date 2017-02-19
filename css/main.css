@@ -146,7 +146,7 @@ section.main {
   }
 }
 section.header {
-  background-color: #f7f7f7;
+  background-color: #fff;
 }
 section.header .container {
   -webkit-align-items: center;
@@ -159,11 +159,12 @@ section.header .container {
   justify-content: center;
 }
 section.header .content {
-  display: -webkit-flex;
+  text-align: center !important;
+  /*display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flexbox;
   display: -ms-flex;
-  display: flex;
+  display: flex;*/
   -webkit-flex-direction: column;
   -moz-flex-direction: column;
   -ms-flex-direction: column;
@@ -176,10 +177,10 @@ section.header .content {
 section.header .avatar {
   border-radius: 50%;
   box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
-  max-width: 50px;
+  max-width: 67px;
 }
 section.header .name {
-  font-size: 18px;
+  font-size: 21px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -261,6 +262,7 @@ section.header nav ul li:hover {
   section.header nav {
     font-size: 14px;
     margin-bottom: 0;
+    margin-top: 11px;
   }
   section.header nav ul {
     text-align: left;
@@ -273,7 +275,7 @@ section.header nav ul li:hover {
   }
 }
 section.icons {
-  background-color: #f7f7f7;
+  background-color: #fff;
 }
 section.icons .container {
   -webkit-align-items: center;
@@ -315,10 +317,11 @@ section.icons .content a .icon {
     background-color: transparent;
   }
   section.icons .container {
-    -webkit-justify-content: flex-start;
+    text-align: center !important;
+    /*-webkit-justify-content: flex-start;
     -moz-justify-content: flex-start;
     -ms-justify-content: flex-start;
-    justify-content: flex-start;
+    justify-content: flex-start;*/
   }
   section.icons .content a {
     margin-left: 3px;

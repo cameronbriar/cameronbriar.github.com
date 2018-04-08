@@ -1,0 +1,186 @@
+# Page settings
+
+baseurl = "http://cameronbriar.com/resume/"
+languageCode = "en-us"
+title = "Cameron Briar | Resume"
+theme = "hugo-orbit-theme"
+#googleAnalytics = "UA-XXXXXXX-Y"
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[params]
+
+    description = "Resume for Cameron Briar, Site Reliability Engineer"
+    author = "Cameron Briar"
+    styles = "styles-7.css"
+
+    [params.profile]
+        name = "Cameron Briar"
+        tagline = "Software Scientist"
+        avatar = "profile.png"
+
+    [params.contact]
+        enable = true
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: hi@cameronbriar.com"
+        title = "hi@cameronbriar.com"
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+5597971882"
+        title = "+15597971882"
+        [[params.contact.list]]
+        class = "website"
+        icon = "fa-globe"
+        url = "http://cameronbriar.com"
+        title = "cameronbriar.com"
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/cameronbriar"
+        title = "/cameronbriar"
+
+    [params.education]
+        enable = true
+        title = "Education"
+        [[params.education.list]]
+        degree = "BS, Computer Science"
+        college = "Fresno State, California"
+        dates = "2012"
+
+    [params.language]
+        enable = true
+        title = "Technologies"
+        [[params.language.list]]
+        language="Python"
+        level="scikit-learn, scipy, numpy, pandas"
+        [[params.language.list]]
+        language="JavaScript"
+        level="React-Native, Vue.js, Angular"
+        [[params.language.list]]
+        language="Linux"
+        level="RHEL, Debian"
+        [[params.language.list]]
+        language="Data Science"
+        level="Python, Spark, Octave, R, Jupyter, Visidata"
+        [[params.language.list]]
+        language="Version Control"
+        level="Git"
+        [[params.language.list]]
+        language="Databases"
+        level="PostgreSQL, SQLite, MySQL, MongoDB, Redis"
+        [[params.language.list]]
+        language="Config. Management"
+        level="Ansible, Chef, Salt, FSS"
+        [[params.language.list]]
+        language="Cloud Computing"
+        level="Google, AWS, Rackspace, IBM SoftLayer"
+        [[params.language.list]]
+        language="Other Languages"
+        level="Bash, Scala, C++, Obj-C, Swift, Java, PowerShell"
+
+    [params.interests]
+        enable = true
+        title = "Pursuits"
+        [[params.interests.list]]
+        interest = "Statistical Learning"
+        [[params.interests.list]]
+        interest = "Data Science"
+        [[params.interests.list]]
+        interest = "Software-Defined Radio"
+        [[params.interests.list]]
+        interest = "Research & Development"
+        [[params.interests.list]]
+        interest = "Space"
+        [[params.interests.list]]
+        interest = "Libre Software"
+        [[params.interests.list]]
+        interest = "Problem Solving"
+
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "A curious and diligent software engineer seeking to apply machine learning techniques to mobile applications and systems reliability. <div class='quote'>Cameron is professional, user-focused, and constantly learning and improving -- not just himself and our software, but also the tools other developers use. He has no problem thinking big picture while maintaining focus on the problem at hand. Despite having his responsibilities multiplied, he's still responsive to requests for recommendations or assistance. He's also saved my ass on at least a couple of occasions and has likely done the same for others around here. I think Cameron is a developer worthy of others emulating and should continue to be recognized for his outstanding work.</div><p><small>Chief Architect, FocusVision, 2016</small>"
+
+    [params.experiences]
+        enable = true
+        icon = "fa-briefcase"
+        title = "Experiences"
+        [[params.jobs.list]]
+        position = "Bridgewater Associates"
+        dates = "Jul 2017 - Present"
+        company = "Site Reliability Engineer"
+        details = "As part of a tight-knit group, we're doing meaningful work in pursuit of extraordinary results with the help of cutting-edge tools and techniques. My focus is primarily on improving system stability while reducing the cost of meeting business goals. Working on the automation here along side such brilliant minds from multiple industries makes this an incredible experience and absolute pleasure."
+        first = true
+        subsection = false
+        [[params.jobs.list]]
+        position = "FocusVision"
+        dates = "Nov 2015 - Dec 2016"
+        company = "Site Reliability Engineer"
+        details = "As part of the small SRE team at FocusVision, we were essential to improving and maintaining the organization’s systems and productivity. We worked side-by-side with almost every role in the company, focusing on the development, deployment, maintenance, security, automation, and documentation of our infrastructure, tooling, and operations. In pursuit of 99.9% availability and a self-healing, service-oriented architecture – we worked smart each day, learning perpetually and implementing boring solutions with clever tools to reduce complex problems."
+        first = true
+        subsection = false
+        [[params.jobs.list]]
+        position = ""
+        dates = "Jun 2014 - Nov 2015"
+        company = "Software Engineer"
+        details = "As a full-stack engineer part of an agile team, we used iterative and test-driven approaches to develop and maintain features in our production systems. Made large contributions to the design, implementation, and testing of our back- and front-end systems, APIs, and deployment pipeline used to support Decipher’s award-winning survey building and data collection platform."
+        first = false
+        subsection = true
+        [[params.jobs.list]]
+        position = ""
+        dates = "Nov 2013 - Jun 2014"
+        company = "Technical Writer"
+        details = "We, a team of two, worked closely with the entire organization and its customers to develop the documentation necessary for all involved to properly use Decipher’s software systems. During these few months, I gained a wholesome understanding of how to compile the businesses’ and engineers’ specifications into concise, actionable, and accessible online documentation. Author of the Decipher Programming Manual, a comprehensive guide on Decipher survey programming."
+        first = false
+        subsection = true
+        [[params.jobs.list]]
+        position = ""
+        dates = "Aug 2012 - Nov 2013"
+        company = "Survey Programmer"
+        details = "This was a fast-paced environment where we worked closely with customers and their account managers to build online surveys from the customers’ questionnaires – implementing the logic and question design to collect data across hundreds of thousands of respondents. The tools used to develop these surveys were mostly comprised of Python, JavaScript, XML, HTML, and CSS. Did you know FocusVision may have the world’s largest Python codebase?"
+        first = false
+        subsection = true
+        [[params.jobs.list]]
+        position = "Bitwise Industries"
+        dates = "Feb 2016 - Apr 2016"
+        company = "JavaScript Instructor"
+        details = "While working as an SRE at FocusVision, I lead a six-week course of 20+ students to understand the fundamentals of programming and JavaScript. This course was open to all ages and held bi weekly from 18:00 - 21:00. Curating the class material to each student regardless of their programming aptitude was enormously fun and challenging. Bitwise has since asked me to continue teaching as well as join them on their enterprise software engineering team as a Developer Fellow."
+        first = true
+        subsection = false
+        [[params.jobs.list]]
+        position = "California State University, Fresno"
+        dates = "Jan 2012 - Jul 2016"
+        company = "Research & Development"
+        details = "Developed a system we called FALT (Fresno Audiovisual Lexicon Tool) with Professor Lorin Lachs, Ph.D. of Psychology on behalf of the National Science Foundation to perform lexical analysis on the similarities of phonemic and visemic communication."
+        first = true
+        subsection = false
+        [[params.jobs.list]]
+        position = ""
+        dates = "Mar 2010 - Feb 2012"
+        company = "IT Help Desk Technician"
+        details = "While pursuing my degree in computer science, I worked on campus as a first responder to Fresno State’s students and staff -- providing technical assistance via telephony systems and support ticket submissions."
+        first = false
+        subsection = true
+
+    [params.projects]
+        enable = true
+        icon = "fa-archive"
+        title = "In Development"
+        intro = ""
+        [[params.projects.list]]
+        title = "Flynt"
+        url = "#"
+        tagline = "A mobile application designed to leverage accelerometer and gyroscope data to support the training of free motion gestures."
+        [[params.projects.list]]
+        title = "Booksee"
+        url = "#"
+        tagline = "Leveraging computer vision and OCR, use Booksee to catalog all books on a bookshelf simply by scanning across the shelf with the device's camera."
+
+    [params.footer]
+        copyright = ""

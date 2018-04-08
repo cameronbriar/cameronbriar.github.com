@@ -1,0 +1,45 @@
+baseurl = "http://cameronbriar.com"
+title = "Home"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Cameron Briar"
+    description = "Cameron Briar's Blog"
+    keywords = "blog,developer,personal"
+    info = "Software Scientist"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/cameronbriar/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/cameronbriar/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/cameronbriar/"
+[[params.social]]
+    name = "Résumé"
+    weight = 3
+    url = "/resume"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

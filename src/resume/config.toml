@@ -66,7 +66,7 @@ disable404 = true
         level="RHEL, Debian"
         [[params.language.list]]
         language="Data Science"
-        level="Python, Spark, Octave, R, Jupyter, Visidata"
+        level="Python, Spark, Octave, R, Jupyter, Visidata, GNU Radio"
         [[params.language.list]]
         language="Version Control"
         level="Git"
@@ -115,56 +115,56 @@ disable404 = true
         position = "Bridgewater Associates"
         dates = "Jul 2017 - Present"
         company = "Site Reliability Engineer"
-        details = "As part of a tight-knit group, we're doing meaningful work in pursuit of extraordinary results with the help of cutting-edge tools and techniques. My focus is primarily on improving system stability while reducing the cost of meeting business goals. Working on the automation here along side such brilliant minds from multiple industries makes this an incredible experience and absolute pleasure."
+        details = "Maintain and improve service reliability through automation and effective systems support. I play a key role in reducing incident time-to-resolution, cognitive load, and human error by introducing more efficient operational procedures. I'm able to increase the accuracy and rate of service failure detection through the continuous reduction of signal:noise ratios in service monitoring systems."
         first = true
         subsection = false
         [[params.jobs.list]]
         position = "FocusVision"
         dates = "Nov 2015 - Dec 2016"
         company = "Site Reliability Engineer"
-        details = "As part of the small SRE team at FocusVision, we were essential to improving and maintaining the organization’s systems and productivity. We worked side-by-side with almost every role in the company, focusing on the development, deployment, maintenance, security, automation, and documentation of our infrastructure, tooling, and operations. In pursuit of 99.9% availability and a self-healing, service-oriented architecture – we worked smart each day, learning perpetually and implementing boring solutions with clever tools to reduce complex problems."
+        details = "Introduced self-healing components that supported a positive increase in service uptime and reliability -- which significantly reduced the toil associated with being on-call. Focused on a breadth of areas related to systems infrastructure, deployment, security, and testing. Developed tools that enabled the business and its customers, increasing their ability to self-serve and remain productive while reducing the costs associated with knowledge sinks."
         first = true
         subsection = false
         [[params.jobs.list]]
         position = ""
         dates = "Jun 2014 - Nov 2015"
         company = "Software Engineer"
-        details = "As a full-stack engineer part of an agile team, we used iterative and test-driven approaches to develop and maintain features in our production systems. Made large contributions to the design, implementation, and testing of our back- and front-end systems, APIs, and deployment pipeline used to support Decipher’s award-winning survey building and data collection platform."
+        details = "As a full-stack engineer, I used agile, test-driven approaches to develop stable APIs and feature-rich applications. I made large contributions to the design, implementation, security, automation, testing, and elimination of bugs in our system stack (from development to deployment)."
         first = false
         subsection = true
         [[params.jobs.list]]
         position = ""
         dates = "Nov 2013 - Jun 2014"
         company = "Technical Writer"
-        details = "We, a team of two, worked closely with the entire organization and its customers to develop the documentation necessary for all involved to properly use Decipher’s software systems. During these few months, I gained a wholesome understanding of how to compile the businesses’ and engineers’ specifications into concise, actionable, and accessible online documentation. Author of the Decipher Programming Manual, a comprehensive guide on Decipher survey programming."
+        details = "I combined accuracy, clarity, and brevity to curate technical documentation that was actionable, realistic, and organized. Having been in the trenches of survey programming, I authored and maintained an entire end-to-end guide on how to best work with the technology."
         first = false
         subsection = true
         [[params.jobs.list]]
         position = ""
         dates = "Aug 2012 - Nov 2013"
         company = "Survey Programmer"
-        details = "This was a fast-paced environment where we worked closely with customers and their account managers to build online surveys from the customers’ questionnaires – implementing the logic and question design to collect data across hundreds of thousands of respondents. The tools used to develop these surveys were mostly comprised of Python, JavaScript, XML, HTML, and CSS. Did you know FocusVision may have the world’s largest Python codebase?"
+        details = "Developed dynamic, interactive web applications to collect data across millions of respondents. Carefully implemented the logic and desired behavior that turned questionnaires into data collecting systems that were cross-browser, cross-device, ADA approved, and secure."
         first = false
         subsection = true
         [[params.jobs.list]]
         position = "Bitwise Industries"
         dates = "Feb 2016 - Apr 2016"
         company = "JavaScript Instructor"
-        details = "While working as an SRE at FocusVision, I lead a six-week course of 20+ students to understand the fundamentals of programming and JavaScript. This course was open to all ages and held bi weekly from 18:00 - 21:00. Curating the class material to each student regardless of their programming aptitude was enormously fun and challenging. Bitwise has since asked me to continue teaching as well as join them on their enterprise software engineering team as a Developer Fellow."
+        details = "While simultaneously working as an SRE @ FocusVision, I worked as a contractor to teach a six-week course on the fundamentals of JavaScript and programming. I gained a wholesome appreciation for those who are able to curate lesson plans that cater to the speeds, ability, and passion of the entire class."
         first = true
         subsection = false
         [[params.jobs.list]]
         position = "California State University, Fresno"
         dates = "Jan 2012 - Jul 2016"
         company = "Research & Development"
-        details = "Developed a system we called FALT (Fresno Audiovisual Lexicon Tool) with Professor Lorin Lachs, Ph.D. of Psychology on behalf of the National Science Foundation to perform lexical analysis on the similarities of phonemic and visemic communication."
+        details = "During my senior year in college and in partnership with the Nation Sciece Foundation, I developed FALT (Fresno Audiovisual Lexicon Tool) -- a system to perform lexical analysis on the similarities of phonemic and visemic communication."
         first = true
         subsection = false
         [[params.jobs.list]]
         position = ""
         dates = "Mar 2010 - Feb 2012"
         company = "IT Help Desk Technician"
-        details = "While pursuing my degree in computer science, I worked on campus as a first responder to Fresno State’s students and staff -- providing technical assistance via telephony systems and support ticket submissions."
+        details = "Provided first class technical support to the entire campus."
         first = false
         subsection = true
 
@@ -173,6 +173,10 @@ disable404 = true
         icon = "fa-archive"
         title = "In Development"
         intro = ""
+        [[params.projects.list]]
+        title = "Radio Security"
+        url = "#"
+        tagline = "I'm eagerly working to understand how radio and digital signal processing works as it relates to secure and insecure communications."
         [[params.projects.list]]
         title = "Flynt"
         url = "#"

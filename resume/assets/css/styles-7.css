@@ -166,8 +166,8 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
-  padding-right: 300px;
+  padding: 25px;
+  padding-right: 250px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -203,7 +203,7 @@ p {
   margin-bottom: 40px;
 }
 .main-wrapper .experiences-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 .main-wrapper .upper-row {
   position: relative;

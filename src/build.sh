@@ -5,5 +5,5 @@ root=$(dirname "$cwd")
 
 hugo -d "$root" -s blog/
 
-mkdir -f "$root/resume"
+mkdir -p "$root/resume"
 hugo -d "$root/resume" -s resume/

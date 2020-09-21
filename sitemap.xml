@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cameronbriar.com/posts/hello-world/</loc>
+    <loc>https://cameronbriar.com/posts/hello-world/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cameronbriar.com/about/</loc>
+    <loc>https://cameronbriar.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://cameronbriar.com/categories/</loc>
+    <loc>https://cameronbriar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cameronbriar.com/</loc>
-    <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cameronbriar.com/posts/</loc>
+    <loc>https://cameronbriar.com/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cameronbriar.com/tags/</loc>
+    <loc>https://cameronbriar.com/posts/</loc>
+    <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cameronbriar.com/tags/</loc>
     <priority>0</priority>
   </url>
   

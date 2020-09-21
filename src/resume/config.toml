@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://cameronbriar.com/resume/"
+baseurl = "https://cameronbriar.com/resume/"
 languageCode = "en-us"
 title = "Cameron Briar | Resume"
 theme = "hugo-orbit-theme"

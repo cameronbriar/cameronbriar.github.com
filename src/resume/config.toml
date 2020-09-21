@@ -36,7 +36,7 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "http://cameronbriar.com"
+        url = "https://cameronbriar.com"
         title = "cameronbriar.com"
         [[params.contact.list]]
         class = "github"
